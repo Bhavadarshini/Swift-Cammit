@@ -29,10 +29,10 @@ Open your terminal and run:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Bhavadarshini/Cammit.git
+git clone https://github.com/Bhavadarshini/Swift-Cammit.git
 
 # 2. Navigate into the project directory
-cd Cammit
+cd Swift-Cammit
 
 # 3. Open in Xcode
 open Cammit.xcodeproj
