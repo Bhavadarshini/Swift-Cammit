@@ -15,11 +15,6 @@ Cammit is a **face-tracking focus timer** built using SwiftUI for macOS. It boos
 
 ## Screenshots
 
-### Cammit App – Timer Running
-<img src="assets/session-active.png" alt="Cammit Active Timer" width="600"/>
-
-### Cammit App – Face Not Detected
-<img src="assets/session-paused.png" alt="Cammit Face Warning" width="600"/>
 
 ---
 
