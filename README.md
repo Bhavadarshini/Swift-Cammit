@@ -41,4 +41,4 @@ cd Swift-Cammit
 open Cammit.xcodeproj
 
 # 4. Build & Run
-Use the ▶️ button at the top left to build and run
+Use the ▶️ button at the top left of Xcode to build and run
